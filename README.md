@@ -25,7 +25,7 @@ Each data structure and algorithm is implemented in a separate Python file withi
 
 1. Clone the repository to your local machine using Git:
     ```bash
-    git clone https://github.com/your-username/data-structures-and-algorithms-python.git
+    git clone https://github.com/amit862/DSA.git
     ```
 2. Navigate to the directory containing the implementation you wish to use.
 3. Open the Python file in your preferred IDE or text editor.
