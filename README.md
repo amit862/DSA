@@ -7,7 +7,7 @@ This repository contains implementations of various data structures and algorith
 - **Arrays**: Basic array operations and algorithms.
 - **Linked Lists**: Implementation of singly linked lists and doubly linked lists along with relevant operations.
 - **Stacks**: Implementation of stack data structure and related algorithms.
-- **Queues**: Implementation of queue data structure and related algorithm.
+- **Queues**: Implementation of queue data structure and related algorithms.
 - **Trees**: Implementation of binary trees, binary search trees, and relevant operations.
 - **Graphs**: Implementation of graph data structure and algorithms like breadth-first search (BFS) and depth-first search (DFS).
 - **Hash Tables**: Implementation of hash table data structure and relevant operations.
