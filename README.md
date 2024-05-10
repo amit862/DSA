@@ -4,7 +4,7 @@ This repository contains implementations of various data structures and algorith
 
 ## Data Structures
 
-- **Arrays**: Basic array operations and algorithms.
+- **Arrays**: Basic array operations and algorithms
 - **Linked Lists**: Implementation of singly linked lists and doubly linked lists along with relevant operations.
 - **Stacks**: Implementation of stack data structure and related algorithms.
 - **Queues**: Implementation of queue data structure and related algorithms.
